@@ -5,7 +5,7 @@ This is a project to develop a 2-D tactical game.  It was started as a way for m
 At the same time, I will also apply agile development best practices.  I have used them professionally, but this is a way to consolidate my experience and make these practices more habitual.
 
 - Automated testing
-- Story and sprint-based planning
+- Planning using github projects (kanban-style)
 - Version control
 - DevOps
 
